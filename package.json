@@ -1,0 +1,15 @@
+{
+  "name": "science-elephant-poaching",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Filippo Fonseca <filifonsecacagnazzo@gmail.com> (https://www.zyndicate.app/)",
+  "license": "MIT",
+  "dependencies": {
+    "node-pandas": "1.0.5"
+  }
+}
